@@ -12,7 +12,7 @@ Simple Mariadb setup
 1. Clone this repository
 
     ```bash
-    $ git clone git@bitbucket.org:syneteksolutions/mariadb.git	 
+    $ git clone https://github.com/whernandez/mysql_docker.git 
     ```
 
 2. Copy .env.sample to .env or echo the value.
